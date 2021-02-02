@@ -1,5 +1,5 @@
 # course-devops-workshop
-* [Workshop day 1](https://github.com/up1/workshop-docker-k8s-helm)
+* [Workshop day 1,2](https://github.com/up1/workshop-docker-k8s-helm)
 * [Workshop](https://github.com/up1/workshop-docker-k8s)
 
 

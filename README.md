@@ -11,3 +11,4 @@
 ## References
 * [Introduction to Docker](https://github.com/up1/course-introduction-docker)
 * [CI/CD](https://github.com/up1/course-ci-cd-with-jenkins)
+* [K8s in practice](https://github.com/up1/course-kubernetes-in-practice)

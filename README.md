@@ -1,6 +1,17 @@
 # course-devops-workshop
 
 ## Course outline
+* Design
+* Development
+* Deployment
+
+## Software requirements
+* [Docker](https://www.docker.com/)
+* [Kubectl](https://kubernetes.io/docs/tasks/tools/)
+* [Helm](https://helm.sh/)
+* [Git](https://git-scm.com/)
+* [Jenkins](https://www.jenkins.io/)
+* [VS Code](https://code.visualstudio.com/)
 
 
 ## Workshop

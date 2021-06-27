@@ -15,6 +15,7 @@
 
 
 ## Workshop
+* [Getting start](https://github.com/up1/workshop-devops-go)
 * [Workshop :: Frontend-Backend-Database](https://github.com/up1/workshop-docker-k8s-helm)
 * [Workshop :: Microservices](https://github.com/up1/workshop-docker-k8s)
 

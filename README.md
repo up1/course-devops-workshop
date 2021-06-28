@@ -11,6 +11,10 @@
 * [Helm](https://helm.sh/)
 * [Git](https://git-scm.com/)
 * [Jenkins](https://www.jenkins.io/)
+  * JDK 8
+  * List of plugins
+    * Build monitor
+    * Publish Over SSH
 * [VS Code](https://code.visualstudio.com/)
 
 

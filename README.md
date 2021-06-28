@@ -1,4 +1,4 @@
-# Course Devops workshop
+# Course Devops Workshop
 
 ## Course outline
 * Design

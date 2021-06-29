@@ -29,3 +29,6 @@
 * [Introduction to Docker](https://github.com/up1/course-introduction-docker)
 * [CI/CD](https://github.com/up1/course-ci-cd-with-jenkins)
 * [K8s in practice](https://github.com/up1/course-kubernetes-in-practice)
+* Testing
+  * [Microservice testing](https://martinfowler.com/articles/microservice-testing)
+  * [Pact](https://docs.pact.io/pact_broker) 

@@ -4,7 +4,11 @@
 * Start with Why and Problems
 * DevOps
 * Continuous Integration and Delivery/Deployment with Jenkins
+  * Design pipeline
+  * Create pipeline
+  * Run pipeline  
 * Sourcecode Version Control with Git
+  * Branch strategies 
 * Containerization
   * Docker
   * Kubernetes

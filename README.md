@@ -2,9 +2,13 @@
 
 ## Course outline
 * Start with Why and Problems
-* Design
-* Development
-* Deployment
+* DevOps
+* Continuous Integration and Delivery/Deployment with Jenkins
+* Sourcecode Version Control with Git
+* Containerization
+  * Docker
+  * Kubernetes
+  * Helm chart 
 
 ## Software requirements
 * [Docker](https://www.docker.com/)

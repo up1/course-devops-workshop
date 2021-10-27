@@ -27,6 +27,7 @@
 * [VS Code](https://code.visualstudio.com/)
 
 ## Workshop
+* [Getting start with Go](https://github.com/up1/workshop-devops-go)
 * [Workshop :: NodeJS + PostgreSQL](https://github.com/up1/workshop-nodejs-docker)
 * [Workshop CI/CD with NodeJS](https://github.com/up1/workshop-nodejs-ci-cd)
 * [Workshop :: Frontend-Backend-Database](https://github.com/up1/workshop-docker-k8s-helm)
@@ -34,7 +35,6 @@
   * Backend => NodeJS
   * Database => MongoDB
 * [Working with Java](https://github.com/up1/workshop-java-web-tdd/)
-* [Getting start with Go](https://github.com/up1/workshop-devops-go)
 * [Workshop :: Microservices](https://github.com/up1/workshop-docker-k8s)
 
 

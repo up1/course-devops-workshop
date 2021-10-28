@@ -43,10 +43,12 @@
   * [Microservice testing](https://martinfowler.com/articles/microservice-testing)
   * [Pact](https://docs.pact.io/pact_broker) 
 * [12 factors](https://12factor.net/)
+  * [Docker 12-factors](https://github.com/docker/labs/blob/master/12factor/README.md) 
 * Docker
   * [Dockerfile](https://docs.docker.com/engine/reference/builder/)
   * [Docker compose](https://docs.docker.com/compose/compose-file/compose-file-v3/)
   * [Control startup and shutdown order in Compose](https://docs.docker.com/compose/startup-order/)
+  * [OWASP Docker Top 10](https://github.com/OWASP/Docker-Security)
 
 ## Reference courses
 * [Introduction to Docker](https://github.com/up1/course-introduction-docker)

@@ -37,8 +37,14 @@
 * [Working with Java](https://github.com/up1/workshop-java-web-tdd/)
 * [Workshop :: Microservices](https://github.com/up1/workshop-docker-k8s)
 
-
 ## References resources
+* DevOps
+  * [Team topologies](https://web.devopstopologies.com/)
+  * [DevOps Periodic Table](https://digital.ai/periodic-table-of-devops-tools) 
+  * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+  * [Google DevOps](https://cloud.google.com/devops)
+  * [DevSecOps](https://www.devsecops.org/)
+  * [DevTestOps](https://www.somkiat.cc/the-road-to-devtestops/)
 * Testing
   * [Microservice testing](https://martinfowler.com/articles/microservice-testing)
   * [Pact](https://docs.pact.io/pact_broker) 

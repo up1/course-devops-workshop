@@ -23,7 +23,7 @@
   * JDK 8
   * List of plugins
     * Build monitor
-    * Publish Over SSH
+    * [SSH pipeline steps](https://plugins.jenkins.io/ssh-steps/)
 * [VS Code](https://code.visualstudio.com/)
 
 ## Workshop

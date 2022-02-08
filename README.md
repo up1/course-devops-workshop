@@ -27,6 +27,7 @@
 * [VS Code](https://code.visualstudio.com/)
 
 ## Workshop
+* [Workshop with Docker](https://github.com/up1/workshop-docker-languages)
 * [Getting start with Go](https://github.com/up1/workshop-devops-go)
 * [Python and Flask](https://github.com/up1/workshop-python-flask)
 * [Workshop :: NodeJS + PostgreSQL](https://github.com/up1/workshop-nodejs-docker)

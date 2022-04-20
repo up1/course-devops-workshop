@@ -38,6 +38,7 @@
   * Database => MongoDB
 * [Working with Java](https://github.com/up1/workshop-java-web-tdd/)
 * [Workshop :: Microservices](https://github.com/up1/workshop-docker-k8s)
+* [Workshop :: Hello with Spring Boot](https://github.com/up1/workshop-java-springboot-docker-k8s)
 
 ## References resources
 * DevOps

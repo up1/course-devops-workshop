@@ -3,6 +3,9 @@
 ## Course outline
 * Start with Why and Problems
 * DevOps
+  * People -> Process -> Tools
+  * Team Topologies 
+  * Tools
 * Continuous Integration and Delivery/Deployment with Jenkins
   * Design pipeline
   * Create pipeline

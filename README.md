@@ -5,6 +5,7 @@
 * DevOps
   * People -> Process -> Tools
   * Team Topologies 
+    * Good and ant-patterns
   * Tools
 * Continuous Integration and Delivery/Deployment with Jenkins
   * Design pipeline

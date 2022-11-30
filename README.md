@@ -43,6 +43,9 @@
 * [Working with Java](https://github.com/up1/workshop-java-web-tdd/)
 * [Workshop :: Microservices](https://github.com/up1/workshop-docker-k8s)
 * [Workshop :: Hello with Spring Boot](https://github.com/up1/workshop-java-springboot-docker-k8s)
+* [Workshop with Terraform](https://github.com/up1/demo-terraform-provisioning)
+  * Docker
+  * Digital Ocean provisioning and install software
 
 ## References resources
 * DevOps

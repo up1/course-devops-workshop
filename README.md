@@ -1,4 +1,4 @@
-# Course Devops Workshop
+# Course Devops Workshop :: Docker and Kubernetes
 
 ## Course outline
 * Start with Why and Problems

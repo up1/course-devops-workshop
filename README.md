@@ -7,6 +7,9 @@
   * Team Topologies 
     * Good and ant-patterns
   * Tools
+* Security in Software development
+  * [Dependency check](https://owasp.org/www-project-dependency-check/)
+  * Static code analysis with [SonarQube](https://www.sonarsource.com/products/sonarqube/)
 * Continuous Integration and Delivery/Deployment with Jenkins
   * Design pipeline
   * Create pipeline

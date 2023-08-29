@@ -32,6 +32,9 @@
 
 ## List of Workshops
 * [Demo DevOps 202303](https://github.com/up1/demo-devops-202303)
+  * ReactJS + Spring Boot + MySQL
+* [Demo with NodeJS](https://github.com/up1/workshop-ci-nodejs-web-api)
+  * ReactJs + NodeJS + MySQL  
 * [Workshop :: Hello with Spring Boot](https://github.com/up1/workshop-java-springboot-docker-k8s)
 * [Working with Java](https://github.com/up1/workshop-java-web-tdd/)
 * [Workshop :: Microservices](https://github.com/up1/workshop-docker-k8s)

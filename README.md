@@ -1,23 +1,23 @@
-# Course Devops Workshop :: Docker and Kubernetes
+# Course Devops Workshop : Development to Deployment
 
 ## Course outline
 * Start with Why and Problems
 * DevOps
   * People -> Process -> Tools
   * Team Topologies 
-    * Good and ant-patterns
+    * Good and anti-patterns
   * Tools
 * Design your pipeline
   * Software Delivery process 
 * Security in Software development
   * [Dependency check](https://owasp.org/www-project-dependency-check/)
-  * Static code analysis with [SonarQube](https://www.sonarsource.com/products/sonarqube/)
+  * Static code analysis with [SonarQube](https://www.sonarsource.com/products/
+  sonarqube/)
+  * Vulnerability Static Analysis for Containers[clair](https://github.com/quay/clair)
 * Continuous Integration and Delivery/Deployment with Jenkins
   * Design pipeline
   * Create pipeline
   * Run pipeline  
-* Sourcecode Version Control with Git
-  * Branch strategies 
 * Containerization
   * Docker
   * Kubernetes

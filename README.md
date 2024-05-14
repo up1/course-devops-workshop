@@ -13,7 +13,7 @@
   * [Dependency check](https://owasp.org/www-project-dependency-check/)
   * Static code analysis with [SonarQube](https://www.sonarsource.com/products/
   sonarqube/)
-  * Vulnerability Static Analysis for Containers[clair](https://github.com/quay/clair)
+  * Vulnerability Static Analysis for Containers with [Clair](https://github.com/quay/clair)
 * Continuous Integration and Delivery/Deployment with Jenkins
   * Design pipeline
   * Create pipeline

@@ -29,10 +29,6 @@
 * [Helm](https://helm.sh/)
 * [Git](https://git-scm.com/)
 * [Jenkins](https://www.jenkins.io/)
-  * JDK 11
-  * List of plugins
-    * Build monitor
-    * [SSH pipeline steps](https://plugins.jenkins.io/ssh-steps/)
 * [VS Code](https://code.visualstudio.com/)
 
 ## List of Workshops

@@ -1,4 +1,4 @@
-# Course Devops Workshop : Development to Deployment
+# Devops Workshop : Development to Deployment
 
 ## Course outline
 * Start with Why and Problems

@@ -11,6 +11,7 @@
   * Software Delivery process 
 * Security in Software development
   * [Dependency check](https://owasp.org/www-project-dependency-check/)
+  * [Dependency track](https://dependencytrack.org/)
   * Static code analysis with [SonarQube](https://www.sonarsource.com/products/
   sonarqube/)
   * Vulnerability Static Analysis for Containers with [Clair](https://github.com/quay/clair)

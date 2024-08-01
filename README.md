@@ -35,6 +35,7 @@
 ## List of Workshops
 * [workshop-ci-jenkins-docker](https://github.com/up1/workshop-ci-jenkins-docker)
   * [workshop-ci-jenkins-docker-deploy](https://github.com/up1/workshop-ci-jenkins-docker-deploy)
+* [workshop-php-nginx-mysql](https://github.com/up1/workshop-php-nginx-mysql)
 * [workshop-devops-docker-k8s](https://github.com/up1/workshop-devops-docker-k8s)
 * [Demo DevOps 202303](https://github.com/up1/demo-devops-202303)
   * ReactJS + Spring Boot + MySQL

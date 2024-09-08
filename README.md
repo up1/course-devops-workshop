@@ -25,12 +25,17 @@
   * Helm chart 
 
 ## Software requirements
-* [Docker](https://www.docker.com/)
-* [Kubectl](https://kubernetes.io/docs/tasks/tools/)
-* [Helm](https://helm.sh/)
-* [Git](https://git-scm.com/)
-* [Jenkins](https://www.jenkins.io/)
-* [VS Code](https://code.visualstudio.com/)
+* CI/CD Tools
+  * [Jenkins](https://www.jenkins.io/)
+* Container management
+  * [Docker](https://www.docker.com/)
+  * Kubernetes
+    * [Kubectl](https://kubernetes.io/docs/tasks/tools/)
+    * [Helm](https://helm.sh/)
+* Version Control
+  * [Git](https://git-scm.com/)
+* Misc Tools
+  * [VS Code](https://code.visualstudio.com/)
 
 ## List of Workshops
 * [workshop-ci-jenkins-docker](https://github.com/up1/workshop-ci-jenkins-docker)

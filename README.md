@@ -61,6 +61,12 @@
 * [Workshop with Terraform](https://github.com/up1/demo-terraform-provisioning)
   * Docker
   * Digital Ocean provisioning and install software
+ 
+## Observability workshop
+* [Simple stack](https://github.com/up1/workshop-simple-observability)
+  * NodeJS
+  * PostgreSQL
+  * Jaeger, Prometheus and Grafana 
 
 ## References resources
 * DevOps

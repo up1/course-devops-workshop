@@ -63,6 +63,7 @@
   * Digital Ocean provisioning and install software
  
 ## Observability workshop
+* [LGTM Stack](https://github.com/up1/workshop-observability-lgtm)
 * [Simple stack](https://github.com/up1/workshop-simple-observability)
   * NodeJS
   * PostgreSQL

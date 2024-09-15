@@ -38,6 +38,10 @@
   * [VS Code](https://code.visualstudio.com/)
 
 ## List of Workshops
+* [Basic workshop](https://github.com/up1/workshop-basic-devops)
+  * NodeJs and PostgreSQL
+  * Docker
+  * Kubernetes  
 * [workshop-ci-jenkins-docker](https://github.com/up1/workshop-ci-jenkins-docker)
   * [workshop-ci-jenkins-docker-deploy](https://github.com/up1/workshop-ci-jenkins-docker-deploy)
 * [workshop-php-nginx-mysql](https://github.com/up1/workshop-php-nginx-mysql)

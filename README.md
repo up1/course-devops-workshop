@@ -38,6 +38,9 @@
   * [VS Code](https://code.visualstudio.com/)
 
 ## List of Workshops
+* [Spring Boot 3.4 + MySQL](https://github.com/up1/workshop-devops-springboot)
+  * Docker
+  * Kubernetes   
 * [Basic workshop](https://github.com/up1/workshop-basic-devops)
   * NodeJs and PostgreSQL
   * Docker

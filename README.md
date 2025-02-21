@@ -44,7 +44,8 @@
 * [Basic workshop](https://github.com/up1/workshop-basic-devops)
   * NodeJs and PostgreSQL
   * Docker
-  * Kubernetes  
+  * Kubernetes
+* [Config with Vault by HashiCorp](https://github.com/up1/vault-with-docker)
 * [workshop-ci-jenkins-docker](https://github.com/up1/workshop-ci-jenkins-docker)
   * [workshop-ci-jenkins-docker-deploy](https://github.com/up1/workshop-ci-jenkins-docker-deploy)
 * [workshop-php-nginx-mysql](https://github.com/up1/workshop-php-nginx-mysql)

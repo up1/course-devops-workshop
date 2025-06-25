@@ -22,7 +22,13 @@
 * Containerization
   * Docker
   * Kubernetes
-  * Helm chart 
+  * Helm chart
+* Observability and Monitoring
+  * Application metric
+  * Distributed tracing
+  * Log aggregation
+  * Dashboard
+  * Alert system  
 
 ## Software requirements
 * CI/CD Tools

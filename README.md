@@ -77,6 +77,7 @@
   * Digital Ocean provisioning and install software
  
 ## Observability workshop
+* [Docker monitoring](https://github.com/up1/workshop-docker-monitoring)
 * [OpenTelemetry + LGTM stack with Golang](https://github.com/up1/workshop-lgtm-go)
 * [LGTM Stack](https://github.com/up1/workshop-observability-lgtm)
 * [Simple stack](https://github.com/up1/workshop-simple-observability)

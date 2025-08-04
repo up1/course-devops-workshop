@@ -47,6 +47,8 @@
 * [Demo with NodeJS](https://github.com/up1/workshop-ci-nodejs-web-api)
   * ReactJs + NodeJS + MySQL
   * Docker
+* DevTestOps workshop
+  * https://github.com/up1/workshop-devtestops  
 * [Spring Boot 3.4 + MySQL](https://github.com/up1/workshop-devops-springboot)
   * Docker
   * Kubernetes   

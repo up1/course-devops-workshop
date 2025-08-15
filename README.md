@@ -1,4 +1,4 @@
-# DevOps Workshop : Development to Deployment
+# DevSecOps Workshop : Development to Deployment
 
 ## Course outline
 * Start with Why and Problems

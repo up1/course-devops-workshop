@@ -44,6 +44,11 @@
   * [VS Code](https://code.visualstudio.com/)
 
 ## List of Workshops
+* [.NET 9](https://github.com/up1/workshop-dotnet-devops)
+  * WebMVC
+  * WebAPI
+  * API testing with postman
+  * Web UI testing with Robot framework 
 * [Demo with NodeJS](https://github.com/up1/workshop-ci-nodejs-web-api)
   * ReactJs + NodeJS + MySQL
   * Docker

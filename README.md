@@ -48,7 +48,8 @@
   * WebMVC
   * WebAPI
   * API testing with postman
-  * Web UI testing with Robot framework 
+  * Web UI testing with Robot framework
+* [DevTestOps](https://github.com/up1/workshop-devtestops)
 * [Demo with NodeJS](https://github.com/up1/workshop-ci-nodejs-web-api)
   * ReactJs + NodeJS + MySQL
   * Docker

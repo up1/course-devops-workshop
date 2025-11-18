@@ -54,7 +54,10 @@
   * ReactJs + NodeJS + MySQL
   * Docker
 * DevTestOps workshop
-  * https://github.com/up1/workshop-devtestops  
+  * https://github.com/up1/workshop-devtestops
+* [Simple Observability with nodeks + pg](https://github.com/up1/workshop-simple-observability)
+  * Prometheus
+  * Jaeger 
 * [Spring Boot 3.4 + MySQL](https://github.com/up1/workshop-devops-springboot)
   * Docker
   * Kubernetes   

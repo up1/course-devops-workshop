@@ -44,6 +44,7 @@
   * [VS Code](https://code.visualstudio.com/)
 
 ## List of Workshops
+* [Demo with DevOps NodeJS 2025/11/20](https://github.com/up1/demo-devops-docker-20251120)
 * [.NET 9](https://github.com/up1/workshop-dotnet-devops)
   * WebMVC
   * WebAPI

@@ -44,6 +44,10 @@
   * [VS Code](https://code.visualstudio.com/)
 
 ## List of Workshops
+* [Demo with Simple Flow](https://github.com/up1/workshop-build-image)
+  * ReactJS
+  * Go
+  * Pipeline with Jenkins 
 * [Demo with DevOps NodeJS 2025/11/20](https://github.com/up1/demo-devops-docker-20251120)
 * [.NET 9](https://github.com/up1/workshop-dotnet-devops)
   * WebMVC

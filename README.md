@@ -5,7 +5,7 @@
 * DevOps
   * People -> Process -> Tools
   * Team Topologies 
-    * Good and anti-patterns
+    * Good patterns and anti-patterns
   * Tools
 * Design your pipeline
   * Software Delivery process 
